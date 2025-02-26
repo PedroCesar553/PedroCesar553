@@ -36,8 +36,3 @@ Costumo dedicar meu tempo livre para aprender algo novo, seja programando um pro
 Além de tecnologia, sou apaixonado(a) por **basquete** e gosto de jogar nas horas vagas.
 
 ---
-
-### Ferramentas que eu uso
-- ![Visual Studio Code](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code)
-- ![Git](https://img.shields.io/badge/Version%20Control-Git-orange?style=for-the-badge&logo=git)
-- ![Node.js](https://img.shields.io/badge/Runtime%20Environment-Node.js-green?style=for-the-badge&logo=node.js)
