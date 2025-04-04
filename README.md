@@ -1,42 +1,16 @@
-## Hi there 👋
+# 💫 Sobre mim:
+Estou me formando em DS no Senai-SP
 
-<!--
-**PedroCesar553/PedroCesar553** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PedroCesar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=PedroCesar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCesar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Here are some ideas to get you started:
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=PedroCesar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- # Este sou eu
- 
-Sou o Pedro Cesar, <ins>aluno de dsi</ins>, _tenho 16 anos_ e gosto de jogos como valorant e ~~fortnite~~
- 
-## Formação acadêmica
- 
-Estou me formando em tecnologia em Informática para Negócios.
- 
-Posso escrever um pequeno trecho de código com `git status` ou então trechos maiores como o abaixo:
- 
-```javascript
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-cosnt costante = 0; //costante pracisa ser inicializada
-
-```
- 
-```python
-
-def ola_mundo(){
-
-  print('Olá, Mundo!')
-
-}
-
-```
- 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=PedroCesar&limit=5&theme=dark&combine_all_yearly_contributions=true)
